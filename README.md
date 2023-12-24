@@ -1,1 +1,1 @@
-# DS-QueueUsingArray
+Sample of  Queue ADT using array
